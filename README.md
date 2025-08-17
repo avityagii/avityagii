@@ -18,7 +18,9 @@
 <hr height=25rem  padding = 0 margin= var(--base-size-24) 0  background-color =  var(--borderColor-default, var(--color-border-default))  ></hr>
 
 <h3 align="left">Frontend : HTML , CSS , JavaScript , TypeScript</h3>
-<h3 align="left"> Libraries : Bootstrap, TailwindCSS, React ...</h3>
+<h3 align="left">Backend : Java</h3>
+<h3 align="left"> Libraries : React & Redux</h3>
+<h3 align="left">Frameworks : Spring Boot & Bootstrap</h3>
 <hr height=25rem  padding = 0 margin= var(--base-size-24) 0  background-color =  var(--borderColor-default, var(--color-border-default))  ></hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avityagii&show_icons=true&locale=en&layout=compact" alt="avityagii" /></p>
 
