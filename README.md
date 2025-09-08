@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avi Tyagi</h1>
-<h3 align="center">🚀 Full Stack Developer passionate about building scalable, efficient, and user-friendly applications.   💻 Experienced in frontend & backend technologies, turning ideas into real-world solutions</h3>
+<h3 align="center">🚀 Full Stack Developer passionate about building scalable, efficient, and user-friendly applications.<br>   💻 Experienced in frontend & backend technologies, turning ideas into real-world solutions</h3>
 
 - 🔭 I’m currently working on **AI Powered Career Guidance System**
 
