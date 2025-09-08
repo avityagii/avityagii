@@ -1,4 +1,4 @@
-<center>##Hi there! 👋 I'm Avi Tyagi</center><br>
+## Hi there! 👋 I'm Avi Tyagi<br>
 A student always eager to learn and explore new technologies. My GitHub journey reflects my love for web development and continuous learning in the AI/ML field.<br>
 🎯A passionate Frontend Developer to build the user-facing part of websites or web applications — the parts that users see, interact with, and experience directly.<br>
 <hr>
@@ -24,8 +24,8 @@ A student always eager to learn and explore new technologies. My GitHub journey 
 
 <hr>
 # 📊 GitHub Stats:
-![Punit's GitHub stats](https://github-readme-stats.vercel.app/api?username=avityagii&show_icons=true&theme=radical)
-![Punit's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=avityagii&layout=compact&theme=radical)
+![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=avityagii&show_icons=true&theme=radical)
+![Avi's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=avityagii&layout=compact&theme=radical)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
