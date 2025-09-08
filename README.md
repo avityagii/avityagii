@@ -10,6 +10,11 @@
 - 📫 How to reach me **avityagi787@gmail.com**
 
 - ⚡ Fun fact **I love dark mode so much that even my coffee is black. ☕🌑**
+- <hr>
+
+ **⌚ Time 💰 Resources  ⭐ Quality**
+ 
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
