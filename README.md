@@ -1,16 +1,20 @@
-## Hi there! 👋 I'm Avi Tyagi<br>
-A student always eager to learn and explore new technologies. My GitHub journey reflects my love for web development and continuous learning in the AI/ML field.<br>
-🎯A passionate Frontend Developer to build the user-facing part of websites or web applications — the parts that users see, interact with, and experience directly.<br>
-<hr>
+<h1 align="center">Hi 👋, I'm Avi Tyagi</h1>
+<h3 align="center">🚀 Full Stack Developer passionate about building scalable, efficient, and user-friendly applications. 💻 Experienced in frontend & backend technologies, turning ideas into real-world solutions</h3>
 
- **⌚ Time 💰 Resources  ⭐ Quality**
- 
-<hr>
+- 🔭 I’m currently working on **AI Powered Career Guidance System**
 
+- 🌱 I’m currently learning backend **Spring Boot**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Avi Tyagi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avityagi787@gmail.com) 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=avityagii)
+- 💬 Ask me about **React , Java**
+
+- 📫 How to reach me **avityagi787@gmail.com**
+
+- ⚡ Fun fact **I love dark mode so much that even my coffee is black. ☕🌑**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/avi tyagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avi tyagi" height="30" width="40" /></a>
+</p>
 
 <hr>
 
@@ -23,11 +27,6 @@ A student always eager to learn and explore new technologies. My GitHub journey 
 ### 💬 **Database :** MySQL, SQLite ...
 
 <hr>
-# 📊 GitHub Stats:
-![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=avityagii&show_icons=true&theme=radical)
-![Avi's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=avityagii&layout=compact&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avityagii&show_icons=true&locale=en&layout=compact" alt="avityagii" /></p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avityagii&show_icons=true&locale=en" alt="avityagii" /></p>
