@@ -1,37 +1,26 @@
-<h1 align="center">Hi 👋, I'm Avi Tyagi</h1>
-<h3 align="center">🚀 Full Stack Developer passionate about building scalable, efficient, and user-friendly applications.<br>   💻 Experienced in frontend & backend technologies, turning ideas into real-world solutions</h3>
+# Hi, I'm Avi Tyagi 👋
 
-- 🔭 I’m currently working on **AI Powered Career Guidance System**
+**MSc Data Science & Analytics student at the University of Leeds**, with a background in Computer Science (AI & ML).
+I like taking messy real-world data through to clear analysis and well-evaluated models, and explaining the statistics behind them.
 
-- 🌱 I’m currently learning backend **Spring Boot**
+## 🧰 What I work with
 
-- 💬 Ask me about **React , Java**
+- **Languages:** Python, SQL, Java
+- **Data & ML:** pandas, NumPy, scikit-learn, Matplotlib, seaborn
+- **Statistics:** regression, hypothesis testing, resampling (bootstrap, cross-validation), statistical learning
+- **Tools:** Git, Jupyter, Flask
 
-- 📫 How to reach me **avityagi787@gmail.com**
+## 🔨 Currently building
 
-- ⚡ Fun fact **I love dark mode so much that even my coffee is black. ☕🌑**
- <hr>
+- 🏠 **UK house prices analysis**: exploring what drives property prices across England and Wales
+- 🔁 **Resampling methods from scratch**: bootstrap, jackknife, permutation tests and cross-validation in NumPy, checked against library implementations
+- ⚙️ **End-to-end ML project**: from raw data to a tested, deployed model
+- 🖼️ **CNN image classifier**: a convolutional network trained and evaluated on an image dataset
 
- **⌚ Time 💰 Resources  ⭐ Quality**
- 
-<hr>
+## 🎓 MSc modules
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/avi-tyagi-170610207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avi tyagi" height="30" width="40" /></a>
-</p>
+Programming for Data Science · Data Science · Statistical Computing · Statistics Theory and Methods · Machine Learning · Deep Learning · Statistical Learning
 
-<hr>
+## 📫 Get in touch
 
-### 🎪 **Frontend :** HTML , CSS , JavaScript  
-
-### 🌱 **Libraries :** Bootstrap, TailwindCSS, , JQuery , React&Redux ...
-
-### 👨‍💻 **Backend :** Java , Spring Boot  ... 
-
-### 💬 **Database :** MySQL, SQLite ...
-
-<hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avityagii&show_icons=true&locale=en&layout=compact" alt="avityagii" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avityagii&show_icons=true&locale=en" alt="avityagii" /></p>
+[LinkedIn](https://www.linkedin.com/in/avi-tyagi-170610207) · avityagi787@gmail.com
